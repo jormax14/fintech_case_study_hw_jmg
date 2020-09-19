@@ -1,6 +1,6 @@
 #sounds of 2001: chime
 
-![f'chime logo'](./images/chime_logo.png)
+![chime logo](./images/chime_image.png)
 
 
 
