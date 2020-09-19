@@ -1,6 +1,6 @@
 #sounds of 2001: chime
 
-![f'chime logo'](images/chime_logo.png)
+![f'chime logo'](./images/chime_logo.png)
 
 
 
@@ -28,6 +28,6 @@
 
 
 
-##addendum
+## addendum
 - https://www.investopedia.com/chime-bank-review-4846500
 - 
