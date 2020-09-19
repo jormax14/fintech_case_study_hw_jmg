@@ -1,4 +1,4 @@
-#sounds of 2001: chime
+# sounds of 2001: chime
 
 ![chime logo](./images/chime_image.png)
 
